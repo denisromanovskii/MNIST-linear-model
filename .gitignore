@@ -1,3 +1,4 @@
 .idea/
 sample-data/
 mnist/
+__pycache__/

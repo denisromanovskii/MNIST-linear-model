@@ -5,6 +5,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Language-Python_3.12-blue" alt="Python Version">
    <img src="https://img.shields.io/badge/Library-PyTorch_2.6.0-orange" alt="PyTorch Version">
+   <img src="https://img.shields.io/badge/GUI-PyQt6-red" alt="PyQt Version">
    <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 

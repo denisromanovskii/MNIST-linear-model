@@ -15,6 +15,12 @@ This project implements a linear neural network to recognize digits from the MNI
 The project utilizes a simple linear architecture where data is passed through a single layer of neurons to demonstrate the basic principles of neural networks and their application to the task of image classification. 
 The goal of the project is to demonstrate the basic principle of neural networks, and to show how these methods can be applied to classification problems.
 
+## Demo
+
+<p align="center">
+      <img src="https://github.com/denisromanovskii/MNIST-linear-model/blob/main/MNIST_demo.gif" alt="demo gif" height="300px">
+</p>
+
 ## Documentation
 
 ### Included Files:
